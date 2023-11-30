@@ -1,0 +1,16 @@
+/*.wrapper{
+    width: 10px;
+    height: 5px;
+    background-color: teal;
+    color: white;
+}
+.wrapper h1,.wrapper .col-md-4{
+    display: none;
+}
+.col-md-4 img{
+    width: 30%;
+    
+}*/
+.imgs img{
+    width: 20%;
+}
